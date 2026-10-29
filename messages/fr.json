@@ -61,7 +61,16 @@
     "dynamiques_edition": "1ʳᵉ édition 2026",
     "mobil_project_name": "Projet MOBIL",
     "mobil_full_title": "Mobilités, migrations, mobilisations",
-    "mobil_description": "Projet de recherche de l’Université Catholique de l’Ouest (UCO, Angers) consacré aux mobilités, aux migrations et aux mobilisations qui s’y rattachent. Dr. Youssoufi, de l’Université Ibn Zohr, figure parmi les intervenants chargés des conclusions de la deuxième journée d’étude du projet, « Migrations, mobilisations et éthique(s) » (UCO Angers, 26 juin 2024)."
+    "mobil_description": "Projet de recherche de l’Université Catholique de l’Ouest (UCO, Angers) consacré aux mobilités, aux migrations et aux mobilisations qui s’y rattachent. Dr. Youssoufi, de l’Université Ibn Zohr, figure parmi les intervenants chargés des conclusions de la deuxième journée d’étude du projet, « Migrations, mobilisations et éthique(s) » (UCO Angers, 26 juin 2024).",
+    "articles": {
+      "title": "Chapitres d’ouvrages collectifs et articles",
+      "subtitle": "Publications avec comité scientifique et comité de lecture (ISSN, ISBN).",
+      "roles": {
+        "preface": "Préface",
+        "introduction": "Introduction",
+        "chapter": "Chapitre"
+      }
+    }
   },
   "Leadership": {
     "title": "Leadership aux Échecs",

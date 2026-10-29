@@ -61,7 +61,16 @@
     "dynamiques_edition": "1st edition 2026",
     "mobil_project_name": "Project MOBIL",
     "mobil_full_title": "Mobilities, Migrations, Mobilisations",
-    "mobil_description": "A research project of the Catholic University of the West (UCO, Angers) devoted to mobilities, migrations and the mobilisations connected to them. Dr. Youssoufi, of University Ibn Zohr, is among the speakers giving the conclusions of the project’s second study day, “Migrations, mobilisations and ethics” (UCO Angers, 26 June 2024)."
+    "mobil_description": "A research project of the Catholic University of the West (UCO, Angers) devoted to mobilities, migrations and the mobilisations connected to them. Dr. Youssoufi, of University Ibn Zohr, is among the speakers giving the conclusions of the project’s second study day, “Migrations, mobilisations and ethics” (UCO Angers, 26 June 2024).",
+    "articles": {
+      "title": "Chapters in Edited Volumes and Articles",
+      "subtitle": "Publications with scientific and reading committees (ISSN, ISBN).",
+      "roles": {
+        "preface": "Preface",
+        "introduction": "Introduction",
+        "chapter": "Chapter"
+      }
+    }
   },
   "Leadership": {
     "title": "Chess Leadership",
