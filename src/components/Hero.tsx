@@ -21,7 +21,7 @@ export default function Hero() {
           <h1 className="text-4xl md:text-6xl font-bold text-navy-900 mb-4 leading-tight">
             {t('title')}
           </h1>
-          <h2 className="text-xl md:text-2xl text-gold-500 mb-8 font-medium">
+          <h2 className="text-lg md:text-xl text-gold-500 mb-8 font-medium leading-relaxed">
             {t('subtitle')}
           </h2>
           

@@ -2,32 +2,66 @@
   "Nav": {
     "about": "About",
     "research": "Research",
+    "students": "Supervision",
+    "publications": "Publications",
+    "media": "Media",
     "leadership": "Leadership",
     "blog": "Blog",
+    "cours": "Courses",
     "contact": "Contact"
+  },
+  "Media": {
+    "title": "In the Media",
+    "subtitle": "Interviews, press coverage, and media appearances featuring Dr. Youssoufi's work in academia and chess leadership.",
+    "view": "View"
   },
   "Hero": {
     "title": "Dr. Meryem Youssoufi",
-    "subtitle": "Professor of Sociology | Chess Leader | Researcher",
+    "subtitle": "Professor of Higher Education (Associate Professor), Accredited to Supervise Research (HDR) in socio-anthropology and multidisciplinary, collaborative studies, Department of Sociology, Faculty of Letters and Human Sciences of Agadir",
     "cta_research": "Explore Research",
     "cta_leadership": "Chess Leadership"
   },
   "About": {
     "title": "The Organic Intellectual",
-    "paragraph1": "Dr. Meryem Youssoufi is a distinguished Professor of Sociology and Anthropology at University Ibn Zohr. Her academic journey is defined by a deep commitment to understanding the complexities of human society, particularly in the context of migration, citizenship, and social dynamics.",
-    "paragraph2": "She believes in the power of research not just as an academic exercise, but as a tool for real-world transformation. Her work bridges the gap between theoretical frameworks and practical applications, making significant contributions to both the academic community and civil society.",
+    "paragraph1": "Dr. Meryem YOUSSOUFI is a distinguished Professor of Sociology and Anthropology at University Ibn Zohr. Her academic career is defined by a deep commitment to understanding the complexities of human society, particularly in the context of mobility, migration, citizenship, and social and societal dynamics…",
+    "paragraph2": "She believes in the power of research not only as an academic or intellectual exercise, but as a tool for the concrete transformation of societies. Her work bridges the gap between theoretical frameworks and practical applications, making significant contributions to both the university community and civil society.",
     "philosophy_title": "My Philosophy",
     "philosophy_quote": "True scholarship lies in the ability to connect abstract theory with the lived experiences of individuals, fostering understanding and driving positive social change.",
     "download_cv": "Download CV"
   },
   "Research": {
-    "title": "Academic Research & Publications",
-    "subtitle": "Exploring the frontiers of migration, citizenship, and social memory through rigorous academic inquiry.",
+    "title": "Academic Research & Projects",
+    "subtitle": "Exploring the frontiers of anthropology and sociology through rigorous, multidisciplinary and collaborative scientific research.",
     "collab_title": "International Collaboration",
     "citer_project_name": "Project CITER",
     "citer_full_title": "Europe and the Borders of Citizenship",
-    "citer_description": "Dr. Youssoufi serves as the principal coordinator for this major international research initiative. Bridging University Ibn Zohr and the Catholic University of the West (UCO) in France, the project critically examines the evolving definitions of citizenship, identity building, and minority rights in a globalized world.",
-    "citer_cta": "Learn More About CITER"
+    "citer_description": "Dr. Youssoufi is the lead coordinator, at the Faculty of Letters and Human Sciences (FLSH) of Agadir, of this international research initiative. Bridging University Ibn Zohr and the Catholic University of the West (UCO) in France, the project critically examines the evolving definitions of citizenship, identity building, and minority rights in a globalized world.",
+    "citer_cta": "Learn More About CITER",
+    "labels": {
+      "editors": "Editors",
+      "coordination": "Coordination",
+      "publisher": "Publisher",
+      "date": "Date",
+      "pages": "Pages",
+      "isbn": "ISBN",
+      "legal_deposit": "Legal deposit",
+      "contributors": "Contributors"
+    },
+    "links": {
+      "publisher": "Publisher page",
+      "press": "Press article",
+      "uco_program": "Programme page (UCO)",
+      "citer_sheet": "Project sheet (3L.AM)",
+      "citer_blog": "CITER research blog",
+      "citer_report": "Agadir colloquium report (Alliance Europa)",
+      "mobil_study_day_uco": "2024 study day (UCO)",
+      "mobil_study_day_calenda": "2024 study day (Calenda)"
+    },
+    "dynamiques_note": "A collective volume of eleven articles, in Arabic and French, organised around four themes: resource valorisation and development issues; socio-spatial change in the context of climate change; urban planning and territorial governance; migration and integration.",
+    "dynamiques_edition": "1st edition 2026",
+    "mobil_project_name": "Project MOBIL",
+    "mobil_full_title": "Mobilities, Migrations, Mobilisations",
+    "mobil_description": "A research project of the Catholic University of the West (UCO, Angers) devoted to mobilities, migrations and the mobilisations connected to them. Dr. Youssoufi, of University Ibn Zohr, is among the speakers giving the conclusions of the project’s second study day, “Migrations, mobilisations and ethics” (UCO Angers, 26 June 2024)."
   },
   "Leadership": {
     "title": "Chess Leadership",
@@ -68,5 +102,43 @@
   "Blog": {
     "title": "Latest Insights",
     "read_more": "Read more"
+  },
+  "Students": {
+    "title": "Supervision & Mentorship",
+    "subtitle": "Selected PhD students under supervision, reflecting research directions in migration, citizenship, and social integration.",
+    "labels": {
+      "topic": "Topic",
+      "years": "Years"
+    },
+    "status": {
+      "ongoing": "Ongoing",
+      "completed": "Completed"
+    },
+    "view_details": "View Details",
+    "back_to_list": "Back to Students",
+    "institution": "Institution",
+    "supervisor": "Supervisor",
+    "abstract": "Abstract",
+    "keywords": "Keywords"
+  },
+  "Publications": {
+    "title": "Selected Publications",
+    "subtitle": "A selection of authored and co-authored books, articles, and academic contributions.",
+    "actions": {
+      "view": "View",
+      "copy_bib": "Copy BibTeX"
+    },
+    "types": {
+      "article": "Article",
+      "chapter": "Chapter",
+      "book": "Book",
+      "proceedings": "Proceedings"
+    }
+  },
+  "Cours": {
+    "title": "Courses",
+    "subtitle": "Course materials and resources shared with students.",
+    "download": "Download PDF",
+    "read": "Read PDF"
   }
 }

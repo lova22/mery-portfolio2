@@ -2,32 +2,66 @@
   "Nav": {
     "about": "À propos",
     "research": "Recherche",
+    "students": "Encadrement",
+    "publications": "Publications",
+    "media": "Médias",
     "leadership": "Leadership",
     "blog": "Blog",
+    "cours": "Cours",
     "contact": "Contact"
+  },
+  "Media": {
+    "title": "Dans les Médias",
+    "subtitle": "Interviews, articles de presse et apparitions médiatiques mettant en lumière le travail académique et le leadership sportif du Dr Youssoufi.",
+    "view": "Voir"
   },
   "Hero": {
     "title": "Dr. Meryem Youssoufi",
-    "subtitle": "Professeure de Sociologie | Leader aux Échecs | Chercheuse",
+    "subtitle": "Professeure de l’Enseignement Supérieur (Maîtresse de conférences), Habilitée à diriger les recherches en socio-anthropologie et les études pluridisciplinaires et collaboratives, Département de Sociologie, Faculté des Lettres et des Sciences Humaines d’Agadir",
     "cta_research": "Explorer la Recherche",
     "cta_leadership": "Leadership aux Échecs"
   },
   "About": {
     "title": "L'Intellectuelle Organique",
-    "paragraph1": "Dr. Meryem Youssoufi est une Professeure distinguée de Sociologie et d'Anthropologie à l'Université Ibn Zohr. Son parcours académique se définit par un engagement profond à comprendre les complexités de la société humaine, notamment dans le contexte de la migration, de la citoyenneté et des dynamiques sociales.",
-    "paragraph2": "Elle croit au pouvoir de la recherche non pas seulement comme exercice académique, mais comme outil de transformation concrète. Son travail comble le fossé entre les cadres théoriques et les applications pratiques, apportant des contributions significatives tant à la communauté universitaire qu'à la société civile.",
+    "paragraph1": "Dr. Meryem YOUSSOUFI est une Professeure distinguée de Sociologie et d'Anthropologie à l'Université Ibn Zohr. Son parcours académique se définit par un engagement profond à comprendre les complexités de la société humaine, notamment dans le contexte des mobilités, des migrations, de la citoyenneté et des dynamiques sociales et sociétales…",
+    "paragraph2": "Elle croit au pouvoir de la recherche non seulement comme exercice académique ou intellectuel, mais comme outil de transformation concrète des sociétés. Son travail comble le fossé entre les cadres théoriques et les applications pratiques, apportant des contributions significatives tant à la communauté universitaire qu'à la société civile.",
     "philosophy_title": "Ma Philosophie",
     "philosophy_quote": "La véritable érudition réside dans la capacité à relier la théorie abstraite aux expériences vécues des individus, favorisant la compréhension et le changement social positif.",
     "download_cv": "Télécharger le CV"
   },
   "Research": {
-    "title": "Recherche Académique & Publications",
-    "subtitle": "Explorer les frontières de la migration, de la citoyenneté et de la mémoire sociale par une enquête académique rigoureuse.",
+    "title": "Recherche Académique & Projets",
+    "subtitle": "Explorer les frontières de l’anthropologie et de la sociologie par des recherches scientifiques pluridisciplinaires et collaboratives rigoureuses.",
     "collab_title": "Collaboration Internationale",
     "citer_project_name": "Projet CITER",
     "citer_full_title": "L'Europe et les frontières de la citoyenneté",
-    "citer_description": "Dr. Youssoufi assure la coordination principale de cette initiative de recherche internationale majeure. Reliant l'Université Ibn Zohr et l'Université Catholique de l'Ouest (UCO) en France, le projet examine de manière critique les définitions évolutives de la citoyenneté, la construction identitaire et les droits des minorités dans un monde globalisé.",
-    "citer_cta": "En savoir plus sur CITER"
+    "citer_description": "Dr. Youssoufi assure la coordination principale majeure au niveau de la FLSH Agadir de cette initiative de recherche internationale. Reliant l'Université Ibn Zohr et l'Université Catholique de l'Ouest (UCO) en France, le projet examine de manière critique les définitions évolutives de la citoyenneté, la construction identitaire et les droits des minorités dans un monde globalisé.",
+    "citer_cta": "En savoir plus sur CITER",
+    "labels": {
+      "editors": "Direction",
+      "coordination": "Coordination",
+      "publisher": "Éditeur",
+      "date": "Date",
+      "pages": "Pages",
+      "isbn": "ISBN",
+      "legal_deposit": "Dépôt légal",
+      "contributors": "Contributeurs"
+    },
+    "links": {
+      "publisher": "Fiche de l'éditeur",
+      "press": "Article de presse",
+      "uco_program": "Page du programme (UCO)",
+      "citer_sheet": "Fiche du projet (3L.AM)",
+      "citer_blog": "Carnet de recherche CITER",
+      "citer_report": "Compte rendu du colloque d’Agadir (Alliance Europa)",
+      "mobil_study_day_uco": "Journée d’étude 2024 (UCO)",
+      "mobil_study_day_calenda": "Journée d’étude 2024 (Calenda)"
+    },
+    "dynamiques_note": "Ouvrage collectif de onze articles, en arabe et en français, organisé autour de quatre axes : valorisation des ressources et enjeux du développement ; mutations sociospatiales et changements climatiques ; planification urbaine et gouvernance territoriale ; migration et intégration.",
+    "dynamiques_edition": "1ʳᵉ édition 2026",
+    "mobil_project_name": "Projet MOBIL",
+    "mobil_full_title": "Mobilités, migrations, mobilisations",
+    "mobil_description": "Projet de recherche de l’Université Catholique de l’Ouest (UCO, Angers) consacré aux mobilités, aux migrations et aux mobilisations qui s’y rattachent. Dr. Youssoufi, de l’Université Ibn Zohr, figure parmi les intervenants chargés des conclusions de la deuxième journée d’étude du projet, « Migrations, mobilisations et éthique(s) » (UCO Angers, 26 juin 2024)."
   },
   "Leadership": {
     "title": "Leadership aux Échecs",
@@ -68,5 +102,43 @@
   "Blog": {
     "title": "Dernières Actualités",
     "read_more": "Lire la suite"
+  },
+  "Students": {
+    "title": "Encadrement & Mentorat",
+    "subtitle": "Sélection de doctorants encadrés, reflétant des axes de recherche en migration, citoyenneté et intégration sociale.",
+    "labels": {
+      "topic": "Sujet",
+      "years": "Années"
+    },
+    "status": {
+      "ongoing": "En cours",
+      "completed": "Terminé"
+    },
+    "view_details": "Voir les détails",
+    "back_to_list": "Retour aux étudiants",
+    "institution": "Institution",
+    "supervisor": "Directeur de thèse",
+    "abstract": "Résumé",
+    "keywords": "Mots-clés"
+  },
+  "Publications": {
+    "title": "Publications Sélectionnées",
+    "subtitle": "Une sélection de livres, articles et contributions académiques.",
+    "actions": {
+      "view": "Voir",
+      "copy_bib": "Copier BibTeX"
+    },
+    "types": {
+      "article": "Article",
+      "chapter": "Chapitre",
+      "book": "Livre",
+      "proceedings": "Actes"
+    }
+  },
+  "Cours": {
+    "title": "Cours",
+    "subtitle": "Supports de cours et ressources partagés avec les étudiants.",
+    "download": "Télécharger le PDF",
+    "read": "Lire le PDF"
   }
 }
